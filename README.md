@@ -35,7 +35,7 @@ This template includes the following folders:
 
 ## Requirements
 List any software or libraries commonly needed in your analytics projects, for example:
-- Python 3.x
+- Python 3
 - pandas
 - numpy
 - matplotlib
