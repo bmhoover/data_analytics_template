@@ -1,0 +1,14 @@
+# Ignore data files
+data/raw/
+data/processed/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.env/
+venv/
